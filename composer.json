@@ -1,0 +1,24 @@
+{
+    "name": "youstudent/uploadfile",
+    "description": "一个通用文件上传包",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "myanswer",
+            "email": "974967207@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "youstudent\\": "src/"
+        }
+    }
+}
